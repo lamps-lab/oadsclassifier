@@ -1,4 +1,3 @@
-import pandas as pd
 import transformers as ppb
 
 #-------------------Function for loading transformer model----------------
