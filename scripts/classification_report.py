@@ -71,7 +71,7 @@ publishers_list = ["springer","umi","ebscohost","sciencedirect","emeraldinsight"
               "theiet"]
 
 #Read dataset from CSV file              
-dataset = pd.read_csv('dataset.csv', header = None)
+dataset = pd.read_csv('../oadsclassifier-Data/dataset.csv', header = None)
 feature_data = pd.DataFrame(dataset)
 feature_data=feature_data[0:]
 feature_data1= feature_data
