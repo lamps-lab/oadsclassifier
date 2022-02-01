@@ -16,6 +16,9 @@ Scripts
 4. classification_report.py:
     A script for implementing OADSClassifier.
     
+Requirements
+---------------
+pip install --upgrade transformers==4.2
 
 How to use the script
 ---------------------
