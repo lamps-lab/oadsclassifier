@@ -18,7 +18,7 @@ Scripts
     
 Requirements
 ---------------
-pip install --upgrade transformers==4.2
+    pip install --upgrade transformers==4.2
 
 How to use the script
 ---------------------
