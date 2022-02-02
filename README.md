@@ -10,14 +10,14 @@ Scripts and sav file
 2. pub_url_cleaner.py:
     A script for eliminating publisher urls from dataset. This module has been called within the script "classification_report.py"
 
-3. model_weight.sav
+3. model_weight.sav:
    This file contains model weights which is loaded in the "OADS.py" script.
     
 4. OADS.py:
     A script for implementing OADSClassifier.
     
-5. "dataset.csv"
-    This csv file contains all the ground truth used for training the model. This dataset is not for using in any script. It is saved here only for the record
+5. dataset.csv:
+    This csv file contains all the ground truth used for training the model. This file is not for using in any script. It is saved here only for the record.
     
 Requirements
 ---------------
