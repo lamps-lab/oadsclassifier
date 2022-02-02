@@ -16,6 +16,9 @@ Scripts and sav file
 4. OADS.py:
     A script for implementing OADSClassifier.
     
+5. "dataset.csv"
+    This csv file contains all the ground truth used for training the model. This dataset is not for using in any script. It is saved here only for the record
+    
 Requirements
 ---------------
     pip install --upgrade transformers==4.2
