@@ -22,6 +22,7 @@ Scripts and sav file
 Requirements
 ---------------
     pip install --upgrade transformers==4.2
+    pip install pickle5
     
 
 How to use the script
