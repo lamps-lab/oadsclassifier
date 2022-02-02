@@ -27,7 +27,7 @@ How to use the script
 Input
 ---------------------
 
-"OADS.py" script takes a text file as input.
+"OADS.py" script takes a text file as input. In the script "OADS.py", replace the text "filename" of line 89 with the input file name.
 
 Output
 ---------------------
@@ -36,5 +36,8 @@ The output of this script is the list of sentences that contains URLs and their 
 1. "OADS" means Open access dataset/software
 2. "Not-OADS" means not open access dataset/software
 
+Sample input and output
+---------------------
+File "41367_2016_Mechanical-Engineering_41367.txt" under "oadsclassifier-Data" directory is a sample text file which can be used as an input to test the classifier.
 
       
