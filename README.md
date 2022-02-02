@@ -27,12 +27,12 @@ How to use the script
 Input
 ---------------------
 
-"OADS.py" script uses takes a text file as input.
+"OADS.py" script takes a text file as input.
 
 Output
 ---------------------
 
-The output of this script is the list of sentences that contains URLs and their predicted class. The classes are - "OADS", "Not-OADS"
+The output of this script is the list of sentences that contains URLs and their predicted class. The classes are - "OADS", "Not-OADS". The output is also saved in a csv file named "Output.csv"
 1. "OADS" means Open access dataset/software
 2. "Not-OADS" means not open access dataset/software
 
