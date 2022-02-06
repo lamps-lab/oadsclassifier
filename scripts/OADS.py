@@ -2,6 +2,7 @@ import numpy as np
 import language_model
 import pub_url_cleaner
 import re
+import spacy
 import torch
 import transformers as ppb # pytorch transformers
 from sklearn.linear_model import LogisticRegression
@@ -17,10 +18,10 @@ import pickle
 def url_extract(filename):
   fileObj = open(filename, 'r')
   text = fileObj.read()
-  tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+  sentence_tokenizer = spacy.load("en_core_web_sm")
 
 
-  text = sent_tokenize(text)
+  text = sentence_tokenizer(text)
 
   sentence_list = []
   regex = r'(https?://[^\s]+)'
