@@ -17,15 +17,16 @@ import pickle
 
 def url_extract(filename):
   fileObj = open(filename, 'r')
-  text = fileObj.read()
+  input_text = fileObj.read()
   sentence_tokenizer = spacy.load("en_core_web_sm")
 
 
-  text = sentence_tokenizer(text)
+  text = sentence_tokenizer(input_text)
+  text = list(text.sents)
 
   sentence_list = []
   regex = r'(https?://[^\s]+)'
-  for i in range(len(text)):
+  for i in range(0,len(text)):
     url = re.findall(regex,text[i])   
     if url:
       sentence_list.append(text[i])
