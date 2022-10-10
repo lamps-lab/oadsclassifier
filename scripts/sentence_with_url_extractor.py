@@ -13,7 +13,7 @@ sentence_with_url_list = []
 regex = r'(http|https|ftp|ftps)\:\/\/[a-zA-Z0-9\-\.]+\.[a-zA-Z]{2,3}(\/\S*)?'
 
 # PyPDF2 to extract text from pdf
-pdfFileObject = open(r"reproducibility.pdf", 'rb')
+pdfFileObject = open(r"filename", 'rb')
 pdfReader = PyPDF2.PdfFileReader(pdfFileObject)
 
 # get number of pages of a pdf file
