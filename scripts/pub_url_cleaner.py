@@ -20,10 +20,6 @@ def eliminiate_publisher_url(features,publishers_list):
           
             if temp==len(urls) and len(urls)!=0:
               print("Publisher URL Found in data")
-              #  test_features.pop(i)
-              #  test_labels.pop(i)
-              #  test_features=np.delete(test_features,i)
-              #  test_labels=np.delete(test_labels,i)
             else:
               features_without_pub_url.append(str(features[i]))
               
