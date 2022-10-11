@@ -1,6 +1,7 @@
 import numpy as np
 import language_model
 import pub_url_cleaner
+import sentence_with_url_extractor
 import re
 import spacy
 import torch
@@ -14,23 +15,6 @@ import nltk
 nltk.download('punkt')
 from nltk.tokenize import sent_tokenize
 import pickle
-
-def url_extract(filename):
-  fileObj = open(filename, 'r')
-  input_text = fileObj.read()
-  sentence_tokenizer = spacy.load("en_core_web_sm")
-
-
-  text = sentence_tokenizer(input_text)
-  text = list(text.sents)
-
-  sentence_list = []
-  regex = r'(https?://[^\s]+)'
-  for i in range(0,len(text)):
-    url = re.findall(regex,text[i])   
-    if url:
-      sentence_list.append(text[i])
-  return sentence_list
 
 #------------------Function for data preprocessing---------------
 def data_clean(*feature_data):
@@ -87,8 +71,8 @@ publishers_list = ["springer","umi","ebscohost","sciencedirect","emeraldinsight"
               "tandfonline",
               "theiet"]
 
-
-sentence_list = url_extract(filename)
+#Extract sentences with URL from the pdf file
+sentence_list = sentence_with_url_extractor.extract_sentence_url(filename)
 dataset = pd.array(sentence_list)
 
 
