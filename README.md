@@ -12,11 +12,14 @@ Scripts and sav file
 
 3. model_weight.sav:
    This file contains model weights which is loaded in the "OADS.py" script.
+   
+4. sentence_with_url_extractor.py:
+    A script to extract sentences containing URLs from pdf files.
     
-4. OADS.py:
+5. OADS.py:
     A script for implementing OADSClassifier.
     
-5. dataset.csv:
+6. dataset.csv:
     This csv file contains all the ground truth used for training the model. This file is not for using in any script. It is saved here only for the record.
     
 Requirements
