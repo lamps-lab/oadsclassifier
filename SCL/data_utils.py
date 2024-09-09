@@ -42,8 +42,8 @@ def my_collate(batch, tokenizer, method, num_classes):
 
 def load_data(dataset, data_dir, tokenizer, train_batch_size, test_batch_size, model_name, method, workers):
     if dataset == 'oads':
-        train_data = json.load(open(os.path.join(data_dir, 'OADS_Train_Target_Sentence.json'), 'r', encoding='utf-8'))
-        test_data = json.load(open(os.path.join(data_dir, 'OADS_Test_Target.json'), 'r', encoding='utf-8'))
+        train_data = json.load(open(os.path.join(data_dir, 'OADS_Train.json'), 'r', encoding='utf-8'))
+        test_data = json.load(open(os.path.join(data_dir, 'OADS_Test.json'), 'r', encoding='utf-8'))
         label_dict = {'general-url': 0, 'third-party-dataset': 1, 'author-provided-dataset': 2, 'third-party-software': 3, 'author-provided-software': 4, 'project': 5}
     else:
         raise ValueError('unknown dataset')
