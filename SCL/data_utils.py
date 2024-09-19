@@ -13,6 +13,7 @@ class MyDataset(Dataset):
         dataset = list()
         for data in raw_data:
             tokens = data['text'].lower().split(' ')
+            print(data['text'])
             label_id = label_dict[data['label']]
             dataset.append((label_list + sep_token + tokens, label_id))
         self._dataset = dataset
@@ -40,16 +41,40 @@ def my_collate(batch, tokenizer, method, num_classes):
     return text_ids, torch.tensor(label_ids)
 
 
-def load_data(dataset, data_dir, tokenizer, train_batch_size, test_batch_size, model_name, method, workers):
-    if dataset == 'oads':
-        train_data = json.load(open(os.path.join(data_dir, 'OADS_Train.json'), 'r', encoding='utf-8'))
-        test_data = json.load(open(os.path.join(data_dir, 'OADS_Test.json'), 'r', encoding='utf-8'))
+def load_data(dataset, data_dir, tokenizer, test_batch_size, model_name, method, workers):
+    if dataset == 'sst2':
+        train_data = json.load(open(os.path.join(data_dir, 'SST2_Train.json'), 'r', encoding='utf-8'))
+        test_data = json.load(open(os.path.join(data_dir, 'SST2_Test.json'), 'r', encoding='utf-8'))
+        label_dict = {'positive': 0, 'negative': 1}
+    elif dataset == 'trec':
+        train_data = json.load(open(os.path.join(data_dir, 'TREC_Train.json'), 'r', encoding='utf-8'))
+        test_data = json.load(open(os.path.join(data_dir, 'TREC_Test.json'), 'r', encoding='utf-8'))
+        label_dict = {'description': 0, 'entity': 1, 'abbreviation': 2, 'human': 3, 'location': 4, 'numeric': 5}
+    elif dataset == 'cr':
+        train_data = json.load(open(os.path.join(data_dir, 'CR_Train.json'), 'r', encoding='utf-8'))
+        test_data = json.load(open(os.path.join(data_dir, 'CR_Test.json'), 'r', encoding='utf-8'))
+        label_dict = {'positive': 0, 'negative': 1}
+    elif dataset == 'subj':
+        train_data = json.load(open(os.path.join(data_dir, 'SUBJ_Train.json'), 'r', encoding='utf-8'))
+        test_data = json.load(open(os.path.join(data_dir, 'SUBJ_Test.json'), 'r', encoding='utf-8'))
+        label_dict = {'subjective': 0, 'objective': 1}
+    elif dataset == 'pc':
+        train_data = json.load(open(os.path.join(data_dir, 'procon_Train.json'), 'r', encoding='utf-8'))
+        test_data = json.load(open(os.path.join(data_dir, 'procon_Test.json'), 'r', encoding='utf-8'))
+        label_dict = {'positive': 0, 'negative': 1}
+    elif dataset == 'oads':
+        # train_data = json.load(open(os.path.join(data_dir, 'OADS_Train3.json'), 'r', encoding='utf-8'))
+        test_data = json.load(open(os.path.join(data_dir, 'OADS_Test3.json'), 'r', encoding='utf-8'))
+        # test_data = json.load(open(os.path.join(data_dir, 'predicted-output.json'), 'r', encoding='utf-8'))
+        # label_dict2 = {'general-url': 0, 'third-party-dataset': 1, 'author-provided-dataset': 2, 'third-party-software': 3, 'author-provided-software': 4}
         label_dict = {'general-url': 0, 'third-party-dataset': 1, 'author-provided-dataset': 2, 'third-party-software': 3, 'author-provided-software': 4, 'project': 5}
     else:
         raise ValueError('unknown dataset')
-    trainset = MyDataset(train_data, label_dict, tokenizer, model_name, method)
+    # trainset = MyDataset(train_data, label_dict, tokenizer, model_name, method)
     testset = MyDataset(test_data, label_dict, tokenizer, model_name, method)
     collate_fn = partial(my_collate, tokenizer=tokenizer, method=method, num_classes=len(label_dict))
-    train_dataloader = DataLoader(trainset, train_batch_size, shuffle=True, num_workers=workers, collate_fn=collate_fn, pin_memory=True)
+    # train_dataloader = DataLoader(trainset, train_batch_size, shuffle=True, num_workers=workers, collate_fn=collate_fn, pin_memory=True)
     test_dataloader = DataLoader(testset, test_batch_size, shuffle=False, num_workers=workers, collate_fn=collate_fn, pin_memory=True)
-    return train_dataloader, test_dataloader
+    # return train_dataloader, test_dataloader
+    return test_dataloader
+
