@@ -14,7 +14,7 @@ def get_config():
     ''' Base '''
     parser.add_argument('--data_dir', type=str, default='data')
     parser.add_argument('--dataset', type=str, default='oads', choices=num_classes.keys())
-    parser.add_argument('--model_name', type=str, default='DistilBERT', choices=['bert', 'roberta', 'DistilBERT', 'GPT-3'])
+    parser.add_argument('--model_name', type=str, default='bert', choices=['bert', 'roberta', 'DistilBERT', 'Llama'])
     parser.add_argument('--method', type=str, default='scl', choices=['ce', 'scl', 'dualcl'])
     ''' Optimization '''
     parser.add_argument('--train_batch_size', type=int, default=16)
