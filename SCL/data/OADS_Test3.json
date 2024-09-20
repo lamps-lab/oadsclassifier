@@ -1,0 +1,922 @@
+[
+  {
+    "text": "first, we run the search engine of dblp for all papers containing \u201ctest\u201d and \u201camplification\u201d in their title (using stemming, which means that \u201camplifying\u201d is matched as well). this has resulted in 70 papers at the date of the search (march 27, 2018) (the data is available at https://github.com/stamp-project/docs-forum/blob/master/scientific-data/). we have reviewed them one by one to see whether they fit in our scope according to the definition of subsection 2.1.",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "visit http://www.dovepress.com/testimonials.php to read real quotes from published authors. submit your manuscript here: http://www.dovepress.com/therapeutics-and-clinical-risk-management-journal therapeutics and clinical risk management is an international, peer-reviewed journal of clinical therapeutics and risk management, focusing on concise rapid reporting of clinical studies in all therapeutic areas, outcomes, safety, and programs for the effective, safe, and sustained use of medicines. this journal is indexed on pubmed central, cas, embase, scopus and the elsevier bibliographic databases. ",
+    "label": "general-url"
+  },
+  {
+    "text": "The Scope project provides a template scope Example|Scope [18] that demonstrates how a new scope can be structured. Example|Scope is available at https://github.com/c3sr/example_scope.",
+    "label": "project"
+  },
+  {
+    "text": "the movie shows the output for three sequences of the test data at different stages during training. to view, click the image or visit this link: https://edwin-de-jong.github.io/blog/isl/rnn-movies/generative-rnn-training-movie.gif.",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "in this section , an overview is provided for the sysmltransformers plugin for the embeddedplus ( e+ ) sysml toolkit ( http://www.embeddedplus.com/sysml.php) and ibm \u2019s extended version of eclipse called rational systems developer ( rsd ) [ 19 ]. this plugin is used to transform a visual e+ sysml cd model into a lexical modelica model using viatra and the sysml2 modelica machine .",
+    "label": "third-party-software"
+  },
+  {
+    "text": "furthermore, we extended the available ncbi annotations (including protein-and noncoding genes) by integrating our novel ncrna annotations. the scripts used to merge the different annotation files and to calculate overlaps between annotations can be found at https://github.com/rnajena/bats ncrna. due to their size, we have not included the lncrna annotations based on lncipedia. ",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "licensed inactivated monovalent h1n1 influenza vaccine available through the nih clinical center pharmacy will be used for booster injection. information about the fda licensed h1n1 vaccines is available at the following link: http://www.fda.gov/biologicsbloodvaccines/guidancecomplianceregulatoryinformation/post-marketactivities/lotreleases/ucm181956.htm.",
+    "label": "general-url"
+  },
+  {
+    "text": "since the implementations are still experimental, undergoing further development, they are currently not part of the stable singular repository. still, they are publicly available in the branch sba at https://github.com/ederc/sources.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "in the following, we will first discuss what \u201cquality\u201d means in the context of skos vocabularies and how it is currently supported by the skos specification and existing tools. then we introduce the quality issues we have identified and describe how we implemented them in the qskos (https://github.com/cmader/qskos/) quality assessment tool. finally, we report on the results of an analysis we performed on 15 existing skos vocabularies and show that the quality issues we discussed are real and can lead to the improvement of existing vocabularies.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "we now turn our attention to the method by which the data for the program are stored. this is accomplished\nusing a mysql (http://www.mysql.com/) database. two such databases are used by this program: the reduction database, which is\nused by the data reduction pipeline, and the results database, which is used to store the fully reduced data.",
+    "label": "third-party-software"
+  },
+  {
+    "text": "estimates of medical consultations for ili take into account the estimate of french population (insee, 2009). weekly estimated incidences from the french sentinel network (http://sentiweb.org/), composed of general practitioners, were used to compare the estimated incidence of consultation for self-defined flu of this study with the estimated incidence of consultation for influenza-like illness (ili) from the network (the four week period before the last day of interview was taken as reference). the case definition of ili in this network is the sudden appearance of fever and myalgia associated with respiratory symptoms.",
+    "label": "general-url"
+  },
+  {
+    "text": "we searched central (2012, issue 12), medline, embase, sinomed, chinese national knowledge infrastructure (cnki), chinese vip information (vip), china important conference papers database, and china dissertation database from their inception to 31 march 2013. we also searched websites of chinese clinical trial registry (http://www.chictr.org/) and international clinical trial registry by u.s. national institutes of health (http://clinicaltrials.gov/) for ongoing registered clinical trials. the following search terms were used individually or combined: 'cold' , 'nasopharyngitis' , 'acute viral rhinopharyngitis' , 'acute coryza' , 'shang feng (cold in chinese)' , 'wai gan (cold in chinese)' , and 'feng han (cold in chinese)' , 'chinese traditional' , 'chinese patent medicine' , 'oriental traditional' , 'herb' , 'herbal medicine' , 'clinical trial' , and 'randomized controlled trial'. ",
+    "label": "general-url"
+  },
+  {
+    "text": "we expect our tools to be useful to other researchers investigating ligand-mediated interactions. a complete and well-documented python implementation is freely available at http://github.com/patvarilly/dnacc.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "We have implemented the components in sensor data acquisition layer (SDAL) and the details are presented in [13]. We will continue developing CA4IOT and project details, technical documents, and source code will be available in https://sourceforge.net/projects/CA4IOT/ in due course.",
+    "label": "project"
+  },
+  {
+    "text": "the next ovulation occurs 0.5 hour after the preceding oviposition [2]. calcification of the eggshell is associated with stimuli initiated by ovulation or plos one | https://doi.org/10.1371/journal.pone.0180432 july 3, 2017 1 .",
+    "label": "general-url"
+  },
+  {
+    "text": "(4) data processing and statistical data analysis acquisition of the raw data was performed using masslynx software version 4.1 (waters corp., ma, usa) and these raw data were firstly converted into the analysis base file (abf) format. then converted data were subsequently deconvolved into mass feature (mf) list using the ms-dial software (http://prime.psc.riken.jp/, version2.46) (kind et al., 2013; tsugawa et al., 2015). processed data were then exported as a text file for further statistical analysis.",
+    "label": "third-party-software"
+  },
+  {
+    "text": "at time of publication the database contained 18,529 geopositioned records from december 1, 2019 to february 5 th , 2020 (fig. 1). a map of all records can be viewed in real-time here: https://www.healthmap.org/ ncov2019/.",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "protein sequences were aligned using mega (version 6.0) [11]. transmembrane software was used to predict the transmembrane domain of the orf5 protein (http://www.cbs.dtu.dk/services/ tmhmm/) [12]. rna secondary structure was predicted using rnafold software, available at http://rna.tbi.uni vie.ac.at/cgi-bin/rnafold.cgi [13]..",
+    "label": "third-party-software"
+  },
+  {
+    "text": "after removal of the adaptor sequences, and filtering of the low quality reads and simple artificial sequences, the mappable reads were extracted and the unique sequences generated by collapsing the identical sequences, with the occurrence count of each unique sequence as the unique sequence tag. these unique sequences were compared with the sequences of non-coding rnas (rrna, trna, snrna, snorna) available in rfam and in the genbank non-coding rna database (http://www.ncbi.nlm.nih.gov/) to clarify degradation fragments of non-coding rna. in addition, all sequences were mapped to mirna sequences from the mirna database, mirbase 16.0 (http://www.mirbase.org/).",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "detection of immunoreactive proteins was carried out using the enhanced chemiluminescence western blot detection kit (ecl, ge health care). non-saturated films were scanned and relative protein values quantified by gel densitometry using the imagej software according to luke miller's instructions available in http://lukemiller.org/index.php/2010/11/analyzing-gels-andwestern-blots-with-image-j/. alternatively, western blots were imaged using a chemidoc tm-touch imagin system (biorad), and relative protein band intensities determined using the image lab touch software 2.4 provided with the equipment.",
+    "label": "general-url"
+  },
+  {
+    "text": "The code with Chainer (Tokui et al., 2015), generated images and pretrained models are available at https://github.com/pfnet-research/sngan_projection.",
+    "label": "project"
+  },
+  {
+    "text": "our people-art dataset (https://github.com/bathvisartdata/peopleart) contains images divided into 43 depiction stylesimages from 41 of these styles came from wikiart.org while the photos came from pascal voc 2012 [41] and the cartoons from google searches.",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "gene trees were generated by maximum likelihood using the program phyml (guindon et al. 2009 ). primate and bat sequences were retrieved from the ncbi database (http://www.ncbi.nlm.nih.gov, last accessed october 31, 2014). the tree shrew and the horse sequences were also included in primate and bat alignments, respectively. ",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "sequences were assembled and aligned to hrv/enterovirus genomes by using seqscape software v2.7 (applied biosystems). consensus sequences were submitted to the basic local alignment search tool (blast; http://blast.ncbi.nlm.nih.gov) using the blastn algorithm in order to identify the nearest hrv/enterovirus type. additionally, sequences were aligned and phylogenetic trees were constructed using mega-software (mega 6 [27] ) using both neighbour joining and maximum likelihood methods including reference sequences for each hrv/enterovirus type to confirm the nearest hrv/enterovirus type.",
+    "label": "third-party-software"
+  },
+  {
+    "text": "to further investigate the notion of cytoskeletal rearrangement during osteoblast differentiation , raw gene expression data for day 0 , 1 , 7 , and 10 - 14 hmsc - obs and hobs [ 62 ] were downloaded from the gene expression omnibus dataset gse 12267 ( http://www.ncbi.nlm.nih.gov/geo/) and analyzed by gene set enrichment analysis ( gsea ) and differential expression analysis ( dea ) , as described in the supplementary information. gsea indicated that the chromosome , chromatin , and cytoskeleton cellular component ontologies were relevant to the phenotypic differences between hmscs and hobs.",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "for the curious, the khmer sources and documentation can be cloned from github at http://github.com/ged-lab/khmer.git. khmer has been available for about four years, but only with the posting of several preprint papers have others started to use it; we estimate the user population at around 100 groups based on e-mail interactions in 2012, although it seems to be growing rapidly as it becomes clear that a large class of assembly problems is more readily tractable with khmer [2].",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "spike trains were binned at 1 ms resolution. results are presented from the analysis of 187 neurons selected from 253 neurons in a neuronal database published on the internet (http://www .cns.nyu.edu/~wyeth/data/newsome/newsome.html). full details of the experimental recording are presented in britten et al. (1992).",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "we shall emphasize that, despite the small phase difference that exceeds the numerical errors in the dd configuration, the faithfulness of the eob waveforms with the numerical waveforms is very good. using the noise curves of enhanced ligo and advanced ligo, (for enhanced ligo, we use the power spectral density given at http://www.ligo.caltech.edu/~rana/\nnoisedata/s6/dcnoise.txt; for advanced ligo, we use the broadband configuration power spectral density\ngiven at http://www.ligo.caltech.edu/advligo/scripts/ref_des.shtml.) for both the uu and dd configurations, we find that the faithfulness is always better than 0.999 for black-hole binaries with a total mass of 30\u2013200m_x000c_. note that the numerical\nwaveforms start roughly at 40hz for binaries with total mass 30m\f and at 10hz for binaries\nwith total mass 100m\f.",
+    "label": "general-url"
+  },
+  {
+    "text": "availability: cruzdb is available at https://github.com/brentp/cruzdb.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "this part is read in from a \ufb01le generated automatically by flugg. this is why, under normal circumstances, fluggsimulations need to be run twice, \ufb01rst to produce this \ufb01le and second to do the full simulation(this is described in more detail at the flugg website, http://www.\ufb02uka.org/content/tools/\ufb02ugg/node8.html). for the geometry as it exists in cvs, these material assignment files are generated ahead of time and can be found in g4numi flugg/g4numi flukamat <name>.inp.",
+    "label": "third-party-software"
+  },
+  {
+    "text": "although in its infancy, next generation sequencing also holds great potential for defining host-pathogen interactions. this review will assess the impact of these technologies on the ability to assess the host response and how this has been applied to help progress the development of vaccines and immunotherapies against biodefence agents described in the centers for disease control and prevention (cdc) select agent list (http://www.selectagents.gov/). biodefence agents are dangerous pathogens that require high levels of biocontainment and are relatively less-studied (compared with the majority of public health pathogens) and cases are relatively rare.",
+    "label": "general-url"
+  },
+  {
+    "text": "see appendix b (code is available for download at http://github.com/sohl-dickstein) for a derivation of the mpf objective function and gradients for the srbm, rbm, and ising models. in all experiments, minimization of k was performed with the minfunc implementation of l-bfgs [22].",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "The results presented in Sec. 6.2 and Sec. 6.3 of this paper can be reproduced using the code and datasets that we have uploaded to a public GitHub repository: https://github.com/ KunalP117/YouTube_project.",
+    "label": "project"
+  },
+  {
+    "text": "there is no restriction for using the spcr program.the spcr program and supplemental materials, including details of all the prediction experiments in this paper are freely available at our website: http://moleco.sjtu.edu.cn/ spcr, also see [additional file 1]. spcr program was developed with c++ under win32 and linux, so it can be run under both platforms. ",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "source code implementing the cartographic models has been made fully available as part of the software package beast [28], and can be downloaded from its google code repository (http://code.google.com/p/beast-mcmc/). more details on implementing these models can be found at https://github.com/trvrb/\ufb02ux/tree/master/example-xmls.incidence.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "this appendix contains instructions on reproducing the work in this thesis. these instructions assume the reader is proficient in the use of mathematica , matlab , mcnp6 , njoy , relap5 , and comsol multiphysics. all of the required tools and models are available on http://www.frc.gatech.edu/resources/thesis/andrew-bopp-phd-thesis-tools/ or by contacting the georgia tech fusion research center. the reader should note these tools were not designed to be \u201c general use \u201d or \u201c end user \u201d tools .",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "the mass spectrometry raw files generated and analyzed in the current study have been deposited to the proteomexchange consortium51 (pxd011746), via the massive partner repository (msv000083144), under the following title: kilchip v1.0 a novel plasmodium falciparum merozoite protein microarray to facilitate malaria vaccine candidate prioritization. the ftp for the dataset is available here: ftp://massive.ucsd.edu/ msv000083144.",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "the matlab program of the proposed algorithms is publicly available at https://github.com/smajidian/hapmc. the simulated datasets consisting of read matrices and true haplotypes used in this work can be downloaded from https://github.com/smajidian/hapmc/raw/master/data/simulated_data.mat.zip. the fosmid dataset for na12878 is taken from [22, 25].",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "environmental conditions may contribute to understand this finding. during december 2015 until february 2016 and april 2016 until june 2016, the average temperature and humidity in israel were 19 \u2022 c, 57% and 25 \u2022 c, 66% respectively (an average data from tel-aviv station #2410 at 2 pm, collected from israel meteorological service database, https://ims.data.gov.il/ims).",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "when the contents of a record are well-defined, they are serialized using either protocol buffers or thrift, and typically lzocompressed. we have written an open-source system called elephant bird, (http://github.com/kevinweil/elephant-bird) that hooks into the serialization frameworks to automatically generate code for reading, writing, and manipulating arbitrary protocol buffer and thrift messages.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "it is known that rbps are the main proteins that are recruited to sgs [47] , therefore the first step was to analyze pluripotent protein markers for the presence of rna binding domains (rbd). based on published data, we selected 36 proteins that are known to be the most common and well known human pluripotent markers [48] and screened them to identify possible rbd (table 2) using the rna-binding protein database (rbpd) http://rbpdb.ccbr.utoronto.ca/ [49]. of these, we identified only three proteins, lin28a, l1td1, and dppa5, which harbor rbd. ",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "we use the same 440 uri-r dataset (https://github.com/jbrunelle/datasets/blob/\nmaster/440uris.txt) from our prior investigation of crawling deferred representations [14]. we generated uri-rs by randomly generating bitly strings and identifying their redirection targets.",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "however, figure 3.8 shows very little dependence on v/\u03c3. we compare our observational results with z = 2 galaxies drawn from the illustris simulation (vogelsberger et al., 2014; d. nelson et al., 2015) (illustris data is available through http://www.illustris-project.org), a large-volume cosmological hydrodynamical simulation with baryonic feedback. metallicity gradients in the simulation data were constructed based on a linear fit to all of the star forming gas within a radius of 10 kpc from each galaxy\u00f5s center.",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "this could be used to speed up the algorithm by solving each line separately on di\ufb00erent cores. a python code (with some c extensions) of the current version is available on https://github.com/eddam/bp-for-tomo, under a free-software bsd license.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "the ps dataset (the dataset along with trained models is publicly available at\nhttps://github.com/rmitra/ps-dataset) consists of a total of 30 scenes with 25 scenes for training and 5 scenes for validation. sample image pairs from the dataset are shown in fig. 3.",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "the code implementing the strategy explained in this paper is freely available at http: //github.com/lucasb-eyer/cugwas and http://lucas-b.eyer.be.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "the benefits of rapidraid codes are visible even when part of the network is congested, where rapidraid codes enable shorter coding times and have a better scalability as compared to existing erasure codes when the network congestion increases. the current implementation source code is available at https://github.com/llpamies/clusterdfs.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "We have provided all the trained model weights and codes at https://github.com/jasonkrone/elen6885-final-project.",
+    "label": "project"
+  },
+  {
+    "text": "we illustrate the diversity of the data with various statistics and provide examples of tasks that benefit from the dataset. we make the dataset available at https://github.com/torchcraft/stardata.en. taro adun!",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "alignments were performed using clustalw (by jalview [38] ). prediction of tmd length and position of pfcrt s or pfcrt r was carried out using the predictors tmhmm2 [39] (www.cbs.dtu.dk/services/tmhmm), memsat [40] (http://saier-144-21.ucsd.edu/barmemsat.html) and split4 [41] (http://split.pmfst.hr/split/4/). sequence of the first tmd of the glycoprotein m1 of the avian coronavirus infectious bronchitis virus was obtained from machamer et al.",
+    "label": "third-party-software"
+  },
+  {
+    "text": "subsequent mapping analysis identified dominant epitopes within the mayv e1 glycoprotein as 'grsvihfstasaaps' (fig 4b) and within the mayv-e3+e2 glycoproteins as 'lakcppgevisvsfv' (fig 4c). the amino acid sequences of the dominant epitopes determined from the elispot mapping analysis were confirmed using the immune epitope database analysis resources tools (http://tools.iedb.org), substantiating the effective antigen processing of scmayv-e vaccine in this strain of mice..",
+    "label": "third-party-software"
+  },
+  {
+    "text": "we look forward to these upcoming results, as well as results from the many other cutting-edge experiments throughout cosmology. primary data products from this thesis and the bk series of papers are all publicly available at http://bicepkeck.org/, and we encourage other experiments to combine our results with other data sets for the best constraints on cosmological parameters..",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "a new c++-based package written by former babar collaborator ilya narsky was adopted as our primary tool. now open-source software, statpatternrecognition [27] is available for download from http://sourceforge.net/projects/statpatrec (documentation is also available in the corresponding readme file)..",
+    "label": "third-party-software"
+  },
+  {
+    "text": "people have studied healthiness of software engineering conferences [49]. this dataset is available online (https://github.com/ai-se/pits%20lda/blob/master/dataset/citemap.csv)..",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "the examples and the results presented in this article have been generated with the version 0.2 of the python gaussian process toolbox gpy. this toolbox, in which we have implemented the periodic kernels discussed here, can be downloaded at http://github.com/sheffieldml/gpy..",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "i have developed skynet, a new nuclear reaction network that is easy to use and \ufb02exible. skynet is publicly available at https://bitbucket.org/jlippuner/skynet as open-source software..",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "in this paper we have presented a case study of a complete model-driven engineering process applied to the development of a domain-specific solution for an exemplary robot control architecture. a complete source code, together with documentation of the presented modeling solution are available for download at http://github.com/ptroja/subsumptionthe. model-driven engineering and dsmls are relatively new concepts in the robotics research.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "optimization (minimization) of the badness is performed by the scipy implementation of the bfgs algorithm, with many initializations to explore multiple local minima. further details are available in the code, which is publicly available at https://github.com/davidwhogg/thetractor/.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "because of our likely evolutionary almost without exception, the genes encoding the proteins that match hsv-1 sequences (using the filter \"alzheimer\") have been reported as genetic risk fac-tors in alzheimer's disease (see http://www.polygenicpathways.co.uk/alzpolys.html) suggesting that such studies have been tracking hsv-1 (and other) infections over the years and inadvertently demonstrating that hsv-1 causes alz-heimer's disease. this in no way detracts from the importance of these studies, but reflects a phenomenon that is probably common to most diseases. ",
+    "label": "general-url"
+  },
+  {
+    "text": "supernatants were collected at 24 h p.i. and cells were fixed with 10% formalin in phosphate buffered saline (pbs). to determine plaque sizes, at least 50 plaques per well were photographed and the average plaque areas were determined using the image j software (http://rsb.info.nih.gov/ij).",
+    "label": "third-party-software"
+  },
+  {
+    "text": "Fully open-science code and data: both DSpot (https://github.com/STAMP-project/dspot/) and our experimental data are made publicly available for future research.",
+    "label": "project"
+  },
+  {
+    "text": "epitopes associated with bcells were predicted using the bepipred epitope prediction server version 1.0 [23]. similarly, antigenicity index of the predicted epitopes was analysed using vaxijen v2.0 online antigen prediction tool http://www.ddg-pharmfac.net/vaxijen/vaxijen/vaxijen.html [22]. prediction criteria were set at 75% classifier specificity and 20 epitope lengths with an overlap.",
+    "label": "third-party-software"
+  },
+  {
+    "text": "sensitivity: the ili system in gar has been able to confirm influenza cases in each of the years evaluated (s1 table). evidence of aggregate data from ghana can also be found in the who flunet system, available free at http://apps.who.int/flumart/default?reportno=1..",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "(throughout this paper, the term \"diseases\" refers to the disease category of the diseases relevant to the pathways. please refer to supplementary table s4 for detailed information about the pathways-diseases relationship.) to understand what role the enriched pathways might play from a therapeutic angle, the kyoto encyclopedia of genes and genomes 26 (kegg; http://www.genome.jp/kegg/pathway.html) was used to identify the diseases with which each pathway might be involved. since each pathway might participate in various bioprocesses in vivo, it is also possible that each pathway could be relevant to multi-diseases, and that each disease might be contributed to by multi-pathways. ",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "if material is not included in the article's creative commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. to view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. the creative commons public domain dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data. ",
+    "label": "general-url"
+  },
+  {
+    "text": "phdsec predicts secondary structure from multiple sequence alignments by a system of neural networks, and is rated at an expected average accuracy of 72% for three states, helix, strand and loop. domains with significant propensity to form transmembrane helices were identified with tmpred (expasy, swiss institute of bioinformatics, http://www.ch.embnet.org/software/ tmpred_form.html). tmpred is based on a statistical analysis of tmbase, a database of naturally occurring transmembrane glycoproteins [24] . ",
+    "label": "third-party-software"
+  },
+  {
+    "text": "all microarray data reported in this study are described in accordance with miame guidelines and have been deposited in the national center for biotechnology information gene expression omnibus (geo, http://www.ncbi.nlm.nih.gov/geo/) public repository, and they are accessible through geo accession (gse22970). all microarray data reported in this study are described in accordance with miame guidelines and have been deposited in the national center for biotechnology information gene expression omnibus (geo, http://www.ncbi.nlm.nih.gov/geo/) public repository, and they are accessible through geo accession (gse22970)..",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "furthermore, we present staqc (stack overflow question-code pairs), the largest dataset to date of \u223c148k python and \u223c120k sql question-code pairs, automatically mined from so using our frameworkunder various case studies, we demonstrate that staqc can greatly help develop data-hungry models for associating natural language with programming language (available at https://github.com/littleyuyu/stackoverflow-question-code-dataset).",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "coverslips were mounted in prolong gold antifade reagent (molecular probes), and the cells were scanned with a confocal microscope lsm 510 (zeiss, oberkochen, germany) using a 100\u00d7 oil-immersion objective. the images were analyzed by image j software 1.47 (http://imagej.nih.gov/ij/) and merged images were prepared. the colocalization analysis of pedv and rab7 was performed using jacop and colocalization-mbf plugins for imagej software.",
+    "label": "third-party-software"
+  },
+  {
+    "text": "we selected our smg targets from the sample of smgs in c05. we took advantage of existing near-ir long-slit h\u03b1 spectroscopy (s04, takata et al. 2006) to select those smgs with the brightest h\u03b1 lines, sh\u03b1 & 10\u221215 erg s\u22121 cm\u22122 to optimize detection. for the tip-tilt star selection we used the keck adaptive optics guide star online tool (http://www2.keck.hawaii.edu/software/\ufb01ndchartgw/acqtool.php)  and corroborated the quality of the tip-tilt star candidates (stellar nature and magnitude) using the sloan digital sky survey catalog archive server (adelmanmccarthy et al. 2008)..",
+    "label": "third-party-software"
+  },
+  {
+    "text": "part of the data analysis and figure plotting was done using numpy v1.8.0, matplotlib v1.3.1 and ipython v1.1.0. the associated data are available at https://github.com/rmari/data_paper_jor_58_1693_2014. the notebook can be visualized without ipython at http://nbviewer.ipython.org/github/rmari/ data_paper_jor_58_1693_2014/blob/master/jor_figures_rheology_data.ipynb.",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "a functional module was determined by examining whether a group of proteins was physically connected or functionally linked. to identify modules, we used hierarchical average-linkage clustering by using the oc software (http://www.compbio.dundee.ac.uk/software/oc/oc. html) with the string confidence scores as a similarity measure. string confidence score represented the probability of finding the proteins which were related by one or more cellular and genetic interactions.",
+    "label": "third-party-software"
+  },
+  {
+    "text": "the results, presented in figure 5 and figure 6 below, confirm the empirical findings described in \u00a76.1 and \u00a76.2. the images are available at https://github.com/mblondel/smooth-ot/tree/master/data..",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "in the following experiments, we investigate two real - world datasets to examine the efficiency of our algorithm where table 2 shows the statistics of these datasets and parameters we used for lasso. the first dataset , abalone , obtained from the uci machine learning repository ( http://archive.ics.uci.edu/ml/datasets/abalone), is used to predict the age of abalones from physical measurements and the second dataset , e2006 - tf - idf , a part of the 10k - corpus ( http://www.ark.cs.cmu.edu/10k/) is used to predict the volatility of stock returns , an empirical measure of the \ufb01nancial risk of a company .none",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "open-source new bioinformatics software tools are being developed that exploit web-based services and the increasing computing power provided by academic and commercial ''cloud computing networks'' (large computing resources provided as a service over the internet). for example, ''science clouds'' (http://workspace.globus.org/clouds/) allow members of the scientific community to lease cloud computing resources free of charge. to leverage these capabilities, novel cloudoptimized bioinformatics tools are being developed, such as the genome sequence read mapper cloudburst [13] . ",
+    "label": "general-url"
+  },
+  {
+    "text": "here the di\ufb00er- ential equations for m\u0307 and r\u0307h are solved nu- merically with a runge-kutta solver, which gives near instantaneous results for m(t) and rh(t) as a function of the tidal \ufb01eld strength and the initial cluster parameters which can be speci\ufb01ed on the command line. the code ac- curately reproduces the results of n-body in- tegrations of single-mass clusters (alexander & gieles 2012) and is publicly available on https://github.com/emacss/emacss. future versions of the code will be able to reproduce the evolution of more realistic stellar clusters, in- cluding a stellar mass function and the e\ufb00ects of stellar evolution.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "the use of prekappa has dramatically reduced the size of our working \ufb01les, from almost 1000 lines of code to less than 300. our expander tool is available at https://github.com/dlab/expander. both, the prekappa \ufb01le and the resulting expanded kappa \ufb01le, can be reviewed in the supplementary material.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "to enable testing of testing for brd associated pathogens in a routine setting, real-time pcrs for detection of viral, bacterial and mycoplasma pathogens in bronchoalveolar lavage fluid (balf) of calves have been set up by the central veterinary institute (lelystad, the netherlands) under the name respocheck. primers and probes specific for the bacterial 16s, v3 and v4 regions were based on the full length, bacterial 16s sequences (50,000 in july 2012) were used from the nuccore database at the national center for biotechnology information (ncbi, usa, http://www.ncbi.nlm.nih.gov/nuccore). for m. bovirhinis and m. dispar the nearly full length 16s sequences were used.",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "to correct for the instrument-induced effects, we normally observe an unpolarized star, chosen from heiles (2000) immediately before or after a science observation. the drp is still in constant development, but a working version can be obtained from https://github.com/wirc-pol/wirc_drp.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "this constraint forced the searches to look for parameters that were consistent with adjacent stripes, but was still allowed to search a range of parameters in detail. 3the tao source code be found at: https://github.com/travisdesell/tao \u2013 33 \u2013 we present the results of the milkyway@home \ufb01ts to stripes 10-23 in table 9. additionally, the \u201cn\u03c3\" values are presented; these are the number of standard deviations (from table 3) that milkway@home differs from the bluegene results.the two sets of best-\ufb01t parameters are very much in agreement with each other; most of the differences are less then 1-\u03c3 apart.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "we built the great-des simulation using galaxies from the cosmos survey (koekemoer et al. 2007), made available for use with galsim (https://github.com/galsim-developers/galsim/%20wiki/realgalaxy%20data)kannawadi et al. (2015) showed that this sample of galaxies is a good representation of galaxy properties, and can be used in shear",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "eco terms classifying the proteins in the top 50 experiments were assigned to the proteins manually after reading the articles. all data and scripts are available on: http://github.com/idoerg/uniprot-bias/ and on http://datadryad.org (the latter upon352 acceptance).",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "being highly transmissible among humans, sars rapidly spread to hong kong and other provinces across china and then to other 28 countries [6, 7]. by july 2003, it had caused 8096 confirmed cases of infection in 29 countries, 774 (9.6 %) of which were fatal (http://www.who.int/csr/sars/ country/table2004_04_21/en/). the second outbreak in 2004 only caused 4 infections with no mortality nor further transmission [8] .",
+    "label": "general-url"
+  },
+  {
+    "text": "the coordinates and the related structure factors have been deposited into the protein data bank with a pdb code of 5z38 [http://www.rcsb. org/structure/5z38]. the uncropped images of blots and gels presented in this paper are provided in supplementary figure 7 .",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "the detailed procedures for synthetic library construction are described in the figure s1. briefly, by following the kabat definition [18] and using the database of human germline genes (http://www.bioinf.org.uk/abysis), the single-chain variable fragment (scfv) was designed to have eight framework regions (frs) and six cdrs. regarding the frequency of usage and expression in e. coli, the dp-47 and dpk 22 human germline genes were chosen for the framework region of vh and vl, respectively. ",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "the data set used in this paper can be found in https://github.com/sauravcsvt/epinews_supplementary_data.",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "finally, the destination vector set presented here also allows expression of n-terminal fusions, provided the att sites flanking the different fusion components are adapted accordingly. to express c-terminal translational fusions by means of our promoters, tags and destination vectors, entry vectors containing the goi should be cloned with a start codon and without a stop codon, and the manufacturer's guidelines regarding the reading frame should be adopted (http://www.invitrogen.com). organisms for which orfeome collections contain vectors that match these criteria include several bacterial collections (brucella melitensis [12] , pseudomonas aeruginosa [13] , bacillus anthracis, francisella tularensis, helicobacter pylori, mycobacterium tuberculosis, rickettsia prowazekii, staphylococcus aureus, streptococcus pneumoniae, vibrio cholerae [14] ), human and mouse [15] , plants (arabidopsis [16] , maize, sorghum, sugarcane, rice [17] ), viruses [18] and yeasts (s. cerevisiae [19] and schizosaccharomyces pombe [20] ). ",
+    "label": "general-url"
+  },
+  {
+    "text": "the algorithms presented here are implemented in the python ad tool algopy [9]. it is bsd licensed and can be publicly accessed at www.github.com/b45ch1/algopy. the goal is to provide code that is useful not only for end users but also serving as repository of tested algorithms that can be easily ported to other programming languages or incorporated in other ad tools.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "in this paper, we present only light curves showing significant variability. combined light curves for all systems, including those which show no variability, are available from the ptf website (http://ptf.caltech.edu/\f). here, we differentiate between three behavioral classes: those systems showing repeated outbursts, those with a single observed outburst, and those with irregular photometric behavior.",
+    "label": "general-url"
+  },
+  {
+    "text": "the main body of code to perform the correlation and auto-correlation analyses presented in this paper was written in python version 2.6, and is available online via the journal. in addition, it is freely available for download as a public github repository webpage (https://github.com/skendrew).",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "the sportvu optical player tracking data from stats llc used in section 5 for the 2013-2014, 2014-2015, and 2015-2016 nba seasons remains proprietary. however, to address concerns of reproducibility, our lab has released a full game of tracking data, available at https://github.com/dcervone/epvdemo/blob/master/data/2013_11_01_ mia_bkn.csv.",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "in this section, the algorithms have been analyzed on two image classification benchmark datasets, which are corel dataset (github.com/meteozay/corel_dataset.git) consisting of 599 classes and caltech 101 dataset consisting of 102 classes..",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "we evaluate on lexnorm1.1 to compare with prior work , but we also present results on lexnorm1.2 in the hope that it will become standard in future work on normalization in english. the dataset is available at http://www.cc.gatech.edu/~jeisenst/lexnorm.v1.2.tgz.",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "once access to the ga network has been granted , instructions for installing the remote access tools are available at the following link : https://diii-d.gat.com/diii-d/computing/internet_portal.",
+    "label": "third-party-software"
+  },
+  {
+    "text": "all calculations were performed in excel. nucleotide sequences of the single-stranded (ss) rna genomes of coronavirus, picornavirus, and hiv (reference strains and unclassified species) were downloaded from the viralzone database (http://viralzone.expasy.org/) [7, 8]. flaviviridae were selected and classified according to [9, 10] (berkhout and van hemert, unpublished results). ",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "sequence similarity searches were performed using the ncbi blast tools blastn http://blast.ncbi.nlm.nih.gov/blast.cgi and ensembl blast/blat search programs http:// www.ensembl.org/multi/tools/blast?db=core using default parameters..",
+    "label": "third-party-software"
+  },
+  {
+    "text": "the lncipedia names of the gathered transcripts of a lncrna hot spot, as well as start and end positions of all exons, are listed in the gtf gene attribute field (supplementary table s9 ). the scripts used for the identification of lncrnas can be found at https://github.com/rnajena/bats ncrna.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "specifically, an outbreak at a poultry farm in mirpur, dhaka, was reported on january 7, 2009 (http://www.oie.int/eng/info_ev/en_ai_avianinfluenza.htm), and hp h5n1-subtype viruses were isolated 2 days later from chickens at a poultry market in dhaka. although no outbreaks were reported at commercial poultry operations in the dhaka district in janurary 2010, an h5n1-subtype outbreak was reported at a farm in the sirajgonji district, and another was reported in the jaipurhat district (http://www.oie.int/eng/in-fo_ev/en_ai_avianinfluenza.htm). infected birds could have been transported to the market, but it is unknown if the infected birds were from commercial farms or from backyard flocks. ",
+    "label": "general-url"
+  },
+  {
+    "text": "We employ the environment and MTD settings described in Section 4.1, code and data for which will be made available online (https://github.com/facebookresearch/ParlAI/tree/master/projects/mastering_the_dungeon).",
+    "label": "project"
+  },
+  {
+    "text": "noneso far our discussion has been restricted to the analyses done on data set in ( https://archive.ics.uci.edu/ml/datasets/gas+sensor+array+drift+dataset+at+different+concentrations).we now discuss approaches employed by researchers on other gas classification data",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "once the classification is submitted, the planet hunters internal designation for the light curve is revealed to the user. classifiers are then asked if they would like to discuss the particular light curve on the planet hunters talk site (the code is available under an open-source license at https://github.com/zooniverse/talk). each q1 light curve has a dedicated page where users can write comments, add searchable twitter-like hash tags, and link similar light curves together.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "24 hours after infection, rna were extracted from the cells and followed by real time rt-pcr to detect the relative quantities of replicated viral rna. the sirnas targeting m or np gene of influenza a virus were designed by sirna target designer version 1.51 from promega (http://www.promega.com/sirnadesigner/program/). the duplexes of designed and previously reported sirnas were synthesized by invitrogene (usa) (the sequences were shown in the supporting information table s1 ).",
+    "label": "third-party-software"
+  },
+  {
+    "text": "other modifications and isoforms are not considered in this analysis. the positive protein identification was based on a probability-scoring algorithm (http://www.matrixscience. com) and the 95% confidence level for positive identification was a score = 80.",
+    "label": "third-party-software"
+  },
+  {
+    "text": "The open source script, plus some example datasets, can be downloaded from http://sourceforge.net/projects/yacaree/; these example datasets are already preprocessed into transactional form, and come from [Asuncion and Newman 2007] or [Fortelius 2003], or from the e-prints repository of the Pascal Network of Excellence.",
+    "label": "project"
+  },
+  {
+    "text": "only genes with a threshold of false discovery rate (fdr) <0.001 and an absolute value log 2 ratio > 1 were considered as differentially expressed. thereafter, all degs were assigned kegg orthologue (ko) identifiers which were later used for pathway analysis using the kegg database (http://www.genome.jp/kegg/). in addition, we used the tigr gene indices clustering tools (tgicl) (http://www.tigr.org/tdb/tgi) [19, 20] software to remove redundancy.",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "An application to a mortality data set reveals interesting historical lessons. Software and data are available at GitHub https://github.com/MeileiJiang/AJIVE_Project.",
+    "label": "project"
+  },
+  {
+    "text": "targeting this model, we used rtrl and ekf to estimate the synaptic weights of the network [17]. the numbers of new confirmed cases of eight types of infectious diseases reported per month between january 2004 and december 2015 were obtained from the center for national public health scientific data (http://www.phsciencedata.cn). this center only collected data until 2015 [18].",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "training was performed on the \ufb01rst 2000 samples of the dataset after which the models were presented with 1000 snippets of the data not included in training set and required to generate the next frame in the sequence. the results of a single trial prediction for 4 dimensions of the dataset can be seen in figure 1in this section we refer to the reduced trbm model referenced in [19] with only hidden to hidden temporal connections 2crbm implementation available at https://gist.github.com/25056703. for the trbm, training epochs were broken up into 100 static pretraining and 400 epochs for all the temporal weights together 4for the tarbm, training epochs were broken up into 100 static pretraining, 50 autoencoding epochs per delay and 100 epochs for all the temporal weights together 4 figure 2:(a) conditional restricted boltzmann machine architecture",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "transcription factor analysis of the taar1 5' untranslated region (input sequence: human dna sequence from clone rp11-295f4 on chromosome 6, complete sequence, genbank: al513524.8) was carried out with the transcription factor (tf) binding site predictor programs lasagna-search 2.0 (lee and huang, 2013, http://biogrid-lasagna.engr.uconn .edu/lasagna_ search/) and matinspector (quandt et al., 1995; cartharius et al., 2005, bioinformatics) which is available as a free trial or part of a software suite from genomatix available at https://www..",
+    "label": "third-party-software"
+  },
+  {
+    "text": "we preprocess (https://github.com/romovpa/arxiv-dataset) plain texts of 963564 arxiv papers with a total of 1416554733 tokens and reduce the vocabulary size to 122596 words with a frequency-based filtering..",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "the plotted trajectories are linear, and therefore not affected by the galactic potential. we checked the validity of this assumption using the software package galpy (https://github.com/jobovy/galpy) to compute the trajectories under a standard milky way potential (combination of a miyamoto-nagai disc, a navarro-frenk-white halo, and a hernquist bulge potentials, see the documentation for details)..",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "brfss ( behavioral risk factor surveillance system ) 2 is the world \u2019s largest telephone health survey since 1984, tracking health conditions and risk behaviors in the united states. we demonstrate the proposed method using the brfss 2009 dataset ( http://www.cdc.gov/brfss/).the data are collected monthly in all 50 + states in the united states..",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "therefore,  atomistic  simulation employing the as-developed eam potential for pd-si is believed to be able to shed light on the formation physics of  the pd-si metallic glass. the pd-si eam potentials can be accessed at: https://sites.google.com/a/gmu.edu/eam-potential-database/home/pdsi..",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "the svm models and supporting data are available at http://www.bclab.inha.ac.kr/vhppi.",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "the psgraph language is independent of both the underlying theorem prover and the goal types used. this is reflected in our implementation, called psgraph (the tool is available at https://github.com/ggrov/psgraph/tree/lpar13). it is implemented in poly/ml and consists of 4 layers.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "we now show the practical applicability of the latent topic model for cascades by a simple case study where we try to recover these interest groups from a meme dataset ( http://snap.stanford.edu/infopath/) using our latentinterest algorithm. the dataset contains millions of different memes which appeared in 400 different websites.",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "such an effort may also prevent duplication of efforts as we have seen with the screening of multiple libraries of fda approved compounds against the ebola virus 14- 16. in order to catalyze this we have made the 55 compounds (supplemental table 1) freely available as a dataset in cdd public (https://app.collaborativedrug.com/register). the compound representation in cdd vault can be accessed via the text compound descriptors (as in the supplemental table 1 ) or in a batch connection table format as an mdl format structure data file (*.sdf) that is universally read by all chemistry aware software.",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "other datasets provided at fimi repository for frequent itemset mining ( http://fimi.cs.hclsinki.fi/data/) are dataset of traffic accidents which is obtained from the national institute of statistics for the region of flanders for the period of 1991 - 2000.",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "the robustness of this application is also investigated in section 4 by changing the lighting conditions, the position and orientation of the objects as well as the background. for this robustness validation, we built a dataset that appears to be a challenging one for image-set clustering (https://github.com/jorisguerin/toolclustering_dataset).",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "Relationships between the proposed AJIVE and other methods from an optimization point of view are discussed in Section 4. The AJIVE Matlab software, the related Matlab scripts and associated datasets, which can be used to reproduce all the results in this paper, are available at the GitHub repository https://github.com/MeileiJiang/AJIVE_Project.",
+    "label": "project"
+  },
+  {
+    "text": "the diameter of 5 individual colonies was measured daily over a period of 7 days. mean and standard error of the mean (sem) values were calculated and analyzed for statistical significance using graph-pad software (http://www.graphpad.com/).",
+    "label": "third-party-software"
+  },
+  {
+    "text": "specifically, the solid black lines indicate groups that constitute more than 20% of the national sample, and the very light grey lines indicate groups that are less than 5%. mean effects are weighted using 2010 data from the population reference bureau (http://www.prb.org/pdf10/10wpds_eng.pdf), and are indicated on each graph by a thin black line.",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "figure s2 structural similarity of hit compounds and counter-screening against denv2. left: dendogram showing structural similarity of chikv primary hits based on tanimoto similarity index (http://chemmine.ucr.edu). right: percent inhibi-tion of 72 primary hits against chikv infection in huh-7 at 10 mm and percent inhibition/toxicity against denv2 determined by image-based analysis of denv2 infection in huh-7.5.",
+    "label": "general-url"
+  },
+  {
+    "text": "the three main explanatory variables are: long term environmental resources measured by mean annual sum ndvi (theoretical range: 0-12); predictability of environmental resources measured by long term percentage change in annual ndvi coefficient of variation (cov); and land degradation, measured by mean annual npp loss 30 (in kgc/ha/year). all measures are based on data released by glada, which itself is based on the gimms (the assessment is based on the gimms group 23-year bi-monthly maximum value ndvi composites (available at http://www.landcover.org), a dataset designed to minimize cloud contamination, varying solar zenith angles and surface topography, and includes stratospheric aerosol corrections following the mt. pinatubo eruption in 1991 (documented in anyamba & tucker, 2005).) ndvi time series covering 1981-2003.",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "for greater \ufb02exibility, we strongly encourage the use of the command line tool which can be downloaded from the above url or accessed from the development source at www.github.com/fragit/..",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "conflicts that the editors consider relevant to the content of the manuscript have been disclosed. the viral hemorrhagic fever consortium (available at: http://www.vhfc.org) is a partnership of academic and industry scientists who are developing diagnostic tests, therapeutic agents, and vaccines for lassa fever, ebola, and other severe diseases. tulane university and its various academic and industry partners have filed u.s. and foreign patent applications on behalf of the consortium for several of these technologies.",
+    "label": "general-url"
+  },
+  {
+    "text": "we therefore decided to make the initial conditions, the integrator and all plotting routines freely available. they can be downloaded as a tar-\ufb01le from https://github.com/hannorein/rebound/ tree/resonancelocation. the relevant \ufb01les for this project are located in the directory problems/resonancelocation.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "this method was implemented in matlab using the genetic algorithm (ga) function with the assumption that each cell phenotype represents a stable steady state (attractor) of the network. the pbn-matlab-toolbox (http://code.google.com/p/pbn-matlab-toolbox/downloads/list) with the synchronous updating scheme was employed in this algorithm for the boolean simulation..",
+    "label": "third-party-software"
+  },
+  {
+    "text": "one may access the commit logs to explore this temporal feature of code at the commit level. for example, with git version control system, he can use the git log functionality (http://learn.github.com/p/log.html). with a simple command, he can obtain the date, time and author of each commit.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "as an illustration , figure 3.12 is the result of one query using the online overpass turbo tool at http://overpass-turbo.eu/ developed by martin raifer ( raifer , 2017 ). the code on the left uses the overpass api to look for bus stops , querying nodes , ways , and relations for the \u201c public_transport = platform \u201d tag . the search area is set to \u201c bbox \u201d , short for \u201c bounding box , which in overpass turbo is the area visible in the map to the right .",
+    "label": "third-party-software"
+  },
+  {
+    "text": "to optimize the objective function , and find the best number of parts to produce on each machine before pm is needed ( xi ) , optquest \u2122 optimization tool integrated into arena \u00ae software was used ( glover et al. , 1999 ; schwetman , 2000 ; april et al. , 2001 ; kleijnen and wan , 2007 ; http://www.opttek.com)..",
+    "label": "general-url"
+  },
+  {
+    "text": "we release the trifo ironsides dataset captured using the ironsides [3], a high-quality device with synchronized stereo camera and imu data, with millimeter-accuracy groundtruth from the robot arm. the dataset is available at https://github.com/ triforobotics/ironsides/wiki/dataset.none.",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "this dataset ( http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28original%29) consists of 699 patient examples. each example has 11 attributes including an id number , a class label that corresponds to the type of breast cancer ( benign or malignant ) , and the 9 features describing breast fine - needle aspirates.",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "the counts shown in table 1 reflect monthly aggregated influenza case counts from march 2009 to august 2012 for china. the data is publicly available on china's ministry of health (moh) site (http://www.moh.gov.cn/) and typically released 1\u00b12 week after the end of each month. a network of physicians report laboratory confirmed cases to the moh on a daily basis.",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "the genskew algorithm was provided by dr. t. rattei. a web server version can be found at http://genskew.csb.univie.ac.at/.",
+    "label": "third-party-software"
+  },
+  {
+    "text": "this would require &105 current-day machines. presently, the l igo data grid4 consists of only \u223c104 machines, so direct td convolution is clearly impractical (https://www.lsc-group.phys.uwm.edu/lscdatagrid/\f).",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "None.All data and related code has been made publically available at https: //github.com/alyssa-adams/OEE_Project.",
+    "label": "project"
+  },
+  {
+    "text": "the design and construction of the microarray, and the methods used for microarray hybridization and feature extraction have been previously reported 56. raw data and normalized gene level data from the array have been deposited in the public database gene expression omnibus (http://www.ncbi.nlm.nih.gov/geo/) under accession numbers for the platform gpl18617, and series gse57143. local blast searches were performed to identify the microarray sequences that corresponded to ig-binding protein sequences used as query sequences.",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "The project was to work on an IoT based smart home with a smart coffee machine, smart light alarm system, autonomous parking system, door-open system, and smoke detector alarm system through the IoT server - KAA. The project \u201cSmart Home\u201d is openly available in GitHub (https://github.com/ywISTE/student-project\u2014Smart-Home).",
+    "label": "project"
+  },
+  {
+    "text": "similarly, previously published p. alecto ifnar2 knockout (pakit03-ifnar2-4a) cells were used to generate ifnar2 and irf3 double knockout cells (pakit03-ifnar2-irf3-g6 dko). to generate guide rna targeting irf3, exon sequence of irf3 was submitted to an online software (http://tools.genomeengineering.org) to obtain potential grna targets (see table s1 for grna sequences). the top hits were further subjected to blast (ncbi) analysis against p.alecto genome to exclude offtarget effects.",
+    "label": "third-party-software"
+  },
+  {
+    "text": "citizen scientists can discuss and share objects and images via the \u2018talk\u2019 interface where more heavily discussed objects trend upwards as they do, for example, in a news aggregator. the \u2018talk\u2019 web application is open source (https://github.com/zooniverse/talk) and was developed by the zooniverse team for general use on its projects, including the mwp. through the use of \u2018talk\u2019, interesting objects float to the top of discussion and are identified as interesting to the mwp scientists.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "to identify the potential t-cell epitopes for eps8, the hla-a*0201 allele was screened, covering a wide range of populations (17). first, the protein sequence was screened for the best binding epitopes using the algorithms syfpeithi (http://www.syfpeithi.de/) and bioinformatics and molecular analysis section (bimas; http://www-bimas. cit.nih.gov/). the cut-off score was adjusted to >20 for syfpeithi and t 1/2 >100 for bimas, and peptides matching these two criteria and which were shared by the two algorithms were selected. ",
+    "label": "third-party-software"
+  },
+  {
+    "text": "This section covers the basic design and the three abstractions (links, packets and senders) that we use to create a simple simulated network. For a complete description of the environment with source code and documentation, see our github repo (https://github.com/PCCproject/PCC-RL)..",
+    "label": "project"
+  },
+  {
+    "text": "one lung from each monkey was fixed in 10% formalin for histopathology and immunohistochemistry while the other was used for real-time pcr and microarrays. lung samples were randomly excised from three different lung areas (cranial, medial, caudal) and stored in rnalater (ambion, http://www.ambion.com/). sixteen pieces of lung were taken from the sars-cov-infected animals, two to three pieces of lung per animal. ",
+    "label": "general-url"
+  },
+  {
+    "text": "the basis for all subsequent analyses begins with age-specific mortality rates, with death counts in the numerator and person-years of exposure in the denominator. allcause death counts were derived from the u.s. multiple cause of death (mcd) public use files (http://www.cdc.gov/nchs/data_access/vitalstatsonline.htm) in select census years\u20141990, 2000, and 2010\u2014and stratified by age, gender, race, and educational attainment (see table 2.1). the study period begins in 1990 because educational attainment was not recorded on death certificates nationwide prior to 1989 (national center for health statistics 1993).",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "all of our code is available under an open source license at https://github.com/cjlee112/phenoseq..",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "prosci\u2019s change management toolkit (http://www.change-management.com/changemanagement-toolkit.htm)..",
+    "label": "third-party-software"
+  },
+  {
+    "text": "since two uris can have subtle textual differences while pointing to the same resource, it is necessary to canonicalize uris (the php function that we wrote to canonicalize uris can be found at https://github.com/jebstuart/researchtools)..",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "currently, there are a limited number of pneumonia-related meta-analyses of genetic association studies. in contrary to the majority of other common diseases, which are often subjected to numerous and repetitive meta-analyses, pneumonia meta-analyses considered a narrow range of genes and have never been updated (with the exception for the il6 association with pneumonia) (https://phgkb.cdc.gov/hugenavigator/phenopedia.do). our study is the first to summarize data from individual papers on the role of tlr2 snps in pneumonia/pneumococcal infection.",
+    "label": "general-url"
+  },
+  {
+    "text": "vocabulary is limited to the most frequent 50,000 words, where frequencies are calculated from english wikipedia, and words that are not contained in this vocabulary are removed from the dataset. we call the resulting semantically grouped word dataset \u201csemcat (github.com/avaapm/semcatdataset2018) \u201d (semantic categories). summary statistics of semcat and hyperlex datasets are given in table i.",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "This section illustrates the cherry-picked commits in Jetty, a web server and servlet container. Since 2016, Jetty repository is maintained at Github under https://github.com/eclipse/jetty.project. We use data from jetty-9.2.x, jetty-9.3.x and jetty-9.4.x for this study.",
+    "label": "project"
+  },
+  {
+    "text": "further progress to understand lrn will likely come from the mid-infrared. the discovery of ptf 10acbp prompted us to search the wise (http://www.nasa.gov/wise) data stream for luminous\nred novae. the subsequent detection (despite the large distance of 60 mpc) motivated us to search for the older lrn (cutri et al. 2011; hoffman et al. 2011).",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "supplemental material for this article may be found at https://doi.org/10.1128/mbio.01839-19..",
+    "label": "general-url"
+  },
+  {
+    "text": "the sequences were assembled with seqman and then aligned using megalign software (version 7.0; dnastar inc., wi, usa). pairwise sequence identity calculations were performed using clustal w software within dnastar 7.0 software (available at https://www.dnastar.com/). the phylogenetic tree was analysed using mega 7.0 software (available at http://www.megasoftware.net/) with the neighbour-joining method with 1,000 bootstrap replicates. ",
+    "label": "third-party-software"
+  },
+  {
+    "text": "Source code for StabLe and data sets used here are available at https://sourceforge.net/projects/sgmodels/..",
+    "label": "project"
+  },
+  {
+    "text": "the paper experimentally evaluates georeach (https://github.com/datasystemslab/geographdb\u2013neo4j) using real graph datasets based on a system implementation inside neo4j (an open source graph database system). the experiments show that georeach exhibits up to two orders of magnitude better query response time and occupies up to four times less storage than the state-ofthe-art spatial and reachability indexing approaches.",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "the reference mock-infected sample was created by pooling equal mass quantities of total rna extracted from the 12 individual lung pieces from mock-infected animals. an agilent 2100 bioanalyzer was used to check the purity of the total rna prior to crna probe production with the agilent low rna input fluorescent linear amplification kit (agilent technologies, http://www.agilent.com/). arrays were scanned with an agilent dna microarray scanner, and image analysis was performed using agilent feature extractor software (agilent technologies). ",
+    "label": "third-party-software"
+  },
+  {
+    "text": "the cpic model was also trained on the scsn dataset, which was downloaded from http://scedc.caltech.edu/research-tools/deeplearning.html. note that the scsn dataset was pre-processed as described in ross et al . [ 4 ] , which is different from the cpic approach described in section 2.3",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "For reasons of space, further examples, including the hyperelastic model evaluated in Section 7 and other non-trivial ILP instances, are made available online (Sharing elimination examples: https://gist.github.com/FabioLuporini/14e79457d6b15823c1cd)..",
+    "label": "project"
+  },
+  {
+    "text": "output files from scripts, lineage designations, mcc trees, acknowledgment tables, accession numbers and redacted xml files (per gisaid data access agreement) are publicly available at: https://github.com/evogytis/flub/tree/master/data..",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "next, we generated sequence alignments for all ncbi rna virus refseqs (see materials and methods) and analyzed the coding regions from each alignment with syn-plot2. a database of the synplot2 results for all alignments, together with the mlogd analysis showing the coding potential in each reading frame, and the positions of stop codons throughout the alignment in each reading frame (for identification of conserved orfs), is available on-line at http://www.firthlab.path.cam.ac.uk/virad.html. synplot2 results for 72 representative rna viruses are shown in supplementary figures s1-s16 .",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "the lensed-\u03bbcdm+noise error bars as plotted are approximately a factor two smaller than those of the previous bicep2 only results\u2014saturation on the (small) sample variance of the lensing component is occurring\u2014the noise component is a factor 2.3 times smaller. all the spectra (including t t , ee etc.) are available for download at http://bicepkeck.org/ together with the ancillary data, noise information, etc., required to use them..",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "All the material of the experiments is freely available on the companion web page (https://github.com/diverse-project/InspectorGuidget)..",
+    "label": "project"
+  },
+  {
+    "text": "release 111 of the european molecular biology laboratory (embl, http://www.embl.org/) database (march 2012) was used to establish our vertebrate viral sequence database. the terms at the family level that describe the host as a vertebrate animal were extracted from the \"virus taxonomy list 2012\" (http://ictvonline.org/virustaxonomy.asp? version=2012), compiled by the international committee on taxonomy of viruses (ictvdb). we only considered viruses under these taxonomy nodes.",
+    "label": "general-url"
+  },
+  {
+    "text": "supplemental material for this article may be found at https://doi.org/10.1128/ msphere.00585-18.",
+    "label": "general-url"
+  },
+  {
+    "text": "the wtw study of elgowainy et al . [ 4 ] develops a simulation framework by integrating greenhouse gases , regulated emissions , and energy using wang \u2018s transportation ( greet ) model [ 16 ] with fuel economy and electricity use of alternative fuel / vehicle systems simulated by the powertrain system analysis toolkit ( psat ) ( http://www.transportation.anl.gov/modeling_simulation/psat/index.html). the key findings estimate that phevs that use ( 1 ) petroleum fuels , ( 1 ) e85 ( a type of biofuel ) , and ( 3 ) hydrogen with an all electric range between 10 miles and 40 miles would respectively reduce petroleum energy use by 40 \u201360 % , 70\u201390 % , and more than 90 % , and would , respectively , reduce ghg emissions by 30\u201360 % , 40 \u201380 % , and 90 \u2013100 % compared with those of a conventional gasoline engine . available at :",
+    "label": "third-party-software"
+  },
+  {
+    "text": "the provision of control rna templates has been effectively implemented by the evag project that provides virus-related reagents from academic research collections [18]. sars-cov rna was retrievable from evag before the present outbreak; specific products such as rna transcripts for the here-described assays were first retrievable from the evag online catalogue on 14 january 2020 (https://www.european-virus-archive.com). technical qualification data based on cell culture materials and synthetic constructs, as well as results from exclusivity testing on 75 clinical samples, were included in the first version of the diagnostic protocol provided to the who on 13 january 2020. ",
+    "label": "general-url"
+  },
+  {
+    "text": "their work is related to the that of stochastic shortest path problem that deals with the computing of the probability density function of the shortest path length for a pair of nodes [8]. table 3 shows the results obtained adopting the proposed approach implemented in the eagle system when compared to those obtained with the recsys svd approach based implementation (https://github.com/ocelma/python -recsys)..",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "Through a comparative analysis of per-type predictions, we also show that Sato\u2019s performance gains are primarily due to improved predictions for underrepresented semantic types in the long tail. To facilitate future research and applications, we have released Sato as an open source project along with an online demo at https://github.com/ megagonlabs/sato..",
+    "label": "project"
+  },
+  {
+    "text": "our dataset of c projects is publicly available at https://utexas.box.com/icsme2014-practice..",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "after that, the reads were de novo assembled by ensembleassembler [35]. assembled contigs and all singlet reads were aligned to in-house viral protein database (collected from ftp://ftp.ncbi.nih.gov/refseq/release/viral/, oct. 20, 2017) using blastx (version 2.2.7) using e-value cutoff of 0.01 to identify highly divergent viral sequences. the significant hits to viruses were then aligned to an in-house non-virus-non-redundant (nvnr) universal proteome database using diamond [36] .",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "another set of lines, each representing an  alternative,  runs  across  parallel  lines  crossing  parallel  lines  at  the  values  of  the variables  for  each  record. figure 3 is an illustration of parallel coordinates using xmdvtool (http://davis.wpi.edu/\u02dcxmdv), which is a public-domain tool. as the figure shows, although the technique of parallel coordinates is useful for detecting outliers and trends in a data set, following individual cases can be quite difficult, particularly with large data sets (e.g., numerous alternatives or options).",
+    "label": "third-party-software"
+  },
+  {
+    "text": "inspired by work in summarisation [10, 11], we create two machine reading corpora by exploiting online newspaper articles and their matching summaries. code to replicate our datasets\u2014and to apply this method to other sources\u2014is available online (http://www.github.com/deepmind/rc-data/2)..",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "all results and all computer code used to generate these results have been deposited to github.com (https://github.com/mtien/rsa-normalization-values). this inlcudes maximum observed asa values (both empirical and theoretical) as a function of backbone dihedral angles.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "Project Matsu is an Open Commons Consortium (OCC)- sponsored project supported by the Open Science Data Cloud. The source code, data, and documentation are made available on GitHub at (https://github.com/LabAdvComp/matsu-project). This work was supported in part by grants from Gordon and Betty Moore Foundation and the National Science Foundation (Grant OISE- 1129076 and CISE 1127316).",
+    "label": "project"
+  },
+  {
+    "text": "here, i give a brief overview of maternal employment rates depending on a\nnumber of family characteristics across the four countries (figures 2-4), household\nemployment patterns and the gender wage gap for women with and without children\n(figures 5-6), public spending on families (figure 7), and the work-family policies\navailable to mothers (table 1). these statistics, derived from the oecd databases (http://www.oecd.org),  help paint a  picture  of  the  macro-level  trends  that  define  the micro-level experiences of the working mothers i interviewed. note that in the statistics presented here, data for germany represent both former east and west germany folded together. oecd data are unavailable for each region separately.",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "supporting datasets: r package primsrc, available at: github repository: https://github.com/jedazard/primsrc/tree/master/data..",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "previously published rna sequencing data (baer et al., 2016a) was mined and analyzed using ingenuity pathway analysis (ipa, qiagen bioinformatics; https://www.qiagenbioinformatics.com/products/ingenuity-pathway-analysis) to determine which cellular networks were altered at the transcriptional level. the raw sequencing data used for this analysis are publically available in the ncbi bioproject database under accession number prjna300864 (http://www.ncbi.nlm.nih. gov/bioproject/prjna300864). fold changes and p-values were imported into ipa program and analysis performed using the core analysis function.",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "superpixelsmodi\ufb01edalvaro1.1 - superpixel generation tool http://www.csd.uwo.ca/faculty/olga/code.html..",
+    "label": "third-party-software"
+  },
+  {
+    "text": "additional information. please access these web sites via the online version of this summary at http://dx.doi.org/10.1371/journal.pmed..",
+    "label": "general-url"
+  },
+  {
+    "text": "this work made use of the data products generated by the nyu sn group, and released under doi:10.5281/zenodo.58767, available at https://github.com/nyusngroup/sesnspectralib..",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "these minor inconsistencies would not impact the overall result of any of the considered elections nor the results reported in this section. we have made the modified data sets available online at https://github.com/akononovicius/lithuanian-parliamentary-election-data..",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "NoneAll source code, input files, and scripts needed to produce the figures and results in this paper are publicly available as part of the BOUT++ development repository at https://github.com/boutproject/BOUT-dev, revision 83c1f53.Due to automation of the testing procedure (section 2), most results and figures in this paper can be reproduced by running a single Python script.",
+    "label": "project"
+  },
+  {
+    "text": "the graph random is a randomly generated graph that tries to mimic the one used in [14] for evaluating the algorithm scalability and has the same number of edges and sample points, being therefore comparable. the yeast graph (http://github.com/gephi/gephi/wiki/datasets) is from the biological domain and was previously used for assessing the performance of mingle despite we have shown that the proposed approach requires a smaller number of iterations, 10 iterations were used for all datasets, which is the same number of iterations reported in [14] for the kdeeb benchmarking..",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "matlab functions to import meabench data\u2020 users may also be interested in uli egert\u2019s comprehensive set of matlab code for mea data analysis;freely available at: http://www.brainworks.uni-freiburg.de/projects/mea/meatools/overview.htm..",
+    "label": "third-party-software"
+  },
+  {
+    "text": "data for the distribution of the mhc-b and -c residues affecting interaction with lineage iii kir in hominoids were compiled using imgt-hla and ipd-mhc sequences [32, 68] . in addition, a gorilla mhc-b allotype bearing c1 was identified from analysis of the gorilla shotgun sequences available at the ncbi trace archive website (http://www.ncbi.nlm.nih.gov/traces/ home/), and generated by the sanger center as part of the gorilla genome project.none",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "we have made our implementation of the technique described in this paper publicly available online at http://github.com/farr/mcmc-ocaml, and also in the lalinferencemcmc sampler, at https://www.lsc group.phys.uwm.edu/daswg/projects/lalsuite.html. we welcome readers to take advantage of this toolkit.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "those mortality data are the linked files of the nhis to the national death index (ndi) 1986-2000 with follow-up through december 31, 2002 (u.s. dept. of health and human services, national center for health statistics 2004). the public-use version of the data is similar to the restricted-use data but contains only a limited set of mortality variables (http://www.cdc.gov/nchs/data/datalinkage/nhis_mort_compare_2007.pdf). all nhis participants are included in the linked mortality files, but only adult participants aged 18 and over were eligible for mortality follow-up (u.s. dept. of health and human services, national center for health statistics 2004).",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "for the exoplanets pipeline, we store the data in the file exoplanets.csv (https://raw.githubusercontent.com/toros-astro/corral/master/datasets/exoplanets.csv) which contains the following columns: name, period and mass of the planet; star\u2013planet separation; distance to the host star; and mass, radius, effective temperature and metallicity of the star. this is a subset of data obtained from exoplanets.org.",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "we have developed an implementation of block graphs and tested it on the real-world texts of the pizza-chili repetitive corpus (available at http://www.github.com/choobin/block-graph), a standard testbed for data structures designed for repetitive strings..",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "(https://www.acf.hhs.gov/css). by hand, i downloaded and aggregated data on child support caseload, collections, and arrears from the ocse\u2019s annual reports to congress, with earliest available data beginning in 1992 (https://archive.acf.hhs.gov/programs/ofa/data-reports/caseload/caseload_archive.html; https://aspe.hhs.gov/system/files/pdf/167036/4spending.pdf). in addition, i also compiled data from the office of family assistance (ofa) on afdc and tanf expenditures and caseload through the acf-ofa archive (https://archive.acf.hhs.gov/programs/ofs/data/archives.html; https://www.ssa.gov/policy/docs/statcomps/supplement/2005/9g.html)",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "Interested readers can download the Python analysis scripts used for this work and an hdf5 file with the relevant numerical results at the github address: https://github.com/callat-qcd/project_gA..",
+    "label": "project"
+  },
+  {
+    "text": "the polity data in general were assembled under the direction of ted robert gurr, while the polity iv project supplies data through 2009 and is under the direction of monty g. marshall at the center for systemic peace. polity iv is a publically accessible data set (see http://www.systemicpeace.org/polity/polity4.htm). the barro & lee cross-national data set includes an education measure based on united nations data and individual-nation census data.",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "then we used webpimms2 toconvert the xrt upper limit measured on may 6 to a physical \ufb02ux limit. webpimms is available at http://heasarc.gsfc.nasa.gov/cgi-bin/tools/w3pimms/w3pimms.pl. the optical and uv data taken on the same day can be approximated by a blackbody model with a temperature tef f = 1.0 \u00d7 104 k and a radius 4 \u00d7 103r (see section 3.3 for details).",
+    "label": "third-party-software"
+  },
+  {
+    "text": "to find motifs potentially linked to phosphorylated sites associated with a kinase prediction, we first grouped sequences within +7 to +1 amino acids of the detected phosphorylation site (i.e., the phosphorylation site is at position 0); sequences can be included in more than one group based on the assumption that different kinases may be responsible for phosphorylation of a given protein at a given position. sequences linked to each predicted kinase group were submitted to weblogo (http://weblogo.berkeley.edu/logo.cgi) for motif detection (supplementary figure 7)..",
+    "label": "third-party-software"
+  },
+  {
+    "text": "The files with the computing evidence and the scripts are available on https://github.com/portillofco/MazurTateProject..",
+    "label": "project"
+  },
+  {
+    "text": "average coverage was either 20x for all transcripts in the transcriptome or were randomly selected from the set 0, 10, 100, 1000 according to the percentage of the reference expressed (the probabilities associated with the nonzero elements were equal). scripts for read generation and random transcriptome generation with splice variants are available at github (https://github.com/ablackpz/simulate-mrnaseq-reads)..",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "in both the pristine cells, the principal 2p3/2 peak is shifted to higher binding energy relative to that of the neutral metal, consistent with the metals being oxidized.the variation in binding energy with chemical structure and not only oxidation state (e.g., per the nist xps reference database, (nist x-ray photoelectron spectroscopy database, nist standard reference database 20, version 4.1, https://srdata.nist.gov/xps/default.aspx, accessed 2/7/2016) fes and fes2 exhibit binding energies separated by more than 3 ev, despite iron being in the 2+ state in both structures) means the oxidation state of the metals cannot be assigned from this data. we do observe that the mn 2p peak does not shift with charge, however, consistent with that the mns encapsulant not reacting.",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "we collected a new dataset (https://github.com/byeongkeun-kang/hoi-dataset) using microsoft kinect v2 [26]. the newly collected dataset consists of 27,525 pairs of depth maps and ground truth labels from 6 people (3 males and 3 females) interacting with 21 different objects.also, the dataset includes the cases of one hand and both hands in a scene. t",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "In other words, it turns the victim browser in a traditional HTTP Proxy. The beef project tunneling proxy features implement such an attack (https://github.com/beefproject/beef/wiki/Tunneling-Proxy). Detection of XSS proxification with all kinds of techniques based on TCP network shape, HTTP headers (incl. user-agent) and IP addresses is vain, since the infected browser itself does the request.",
+    "label": "project"
+  },
+  {
+    "text": "notable exceptions of nuclear reaction networks that are publicly available are: various networks by timmes(1999)2, xnet by hix and thielemann (1999)3, and nucnet by meyer and adams(2007)4. in this paper, we present a new nuclear reaction network called skynet that is publicly available as open-source software at https://bitbucket.org/jlippuner/skynet..",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "the model shown in figure 3.1 and 3.2 is the 3d representation of a human head. the model is reconstructed from cross section images of the visible human dataset ( http://www.nlm.nih.gov/research/visible/visisble_human.html). the volumetric meshing was performed in cfd - geom ( version 2009 ) .",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "an open-source implementation is available on github: https://github.com/phdp/wagner.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "in this subsection, we will analyse the tweet data from donald j. trump\u2019s personal twitter account @realdonaldtrump. president trump is an active twitter user (a complete archive of donald trump\u2019s tweets, updated on an hourly basis, is available at https: //github.com/bpb27/trump tweet data archive). his tweet data has already been a subject of quantitative studies in the past.",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "a more descriptive end-to-end example by using a small amount of german training data (2https://github.com/yahoo/yaraparser/tree/master/sample_data) is shown in yara\u2019s github repository. this example is shown at https://github.com/yahoo/yaraparser#example-usage.",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "by hand, i downloaded and aggregated data on child support caseload, collections, and arrears from the ocse\u2019s annual reports to congress, with earliest available data beginning in 1992 (https://archive.acf.hhs.gov/programs/ofa/data-reports/caseload/caseload_archive.html; https://aspe.hhs.gov/system/files/pdf/167036/4spending.pdf). in addition, i also compiled data from the office of family assistance (ofa) on afdc and tanf expenditures and caseload through the acf-ofa archive (https://archive.acf.hhs.gov/programs/ofs/data/archives.html; https://www.ssa.gov/policy/docs/statcomps/supplement/2005/9g.html). i also draw on data from the congressional research service (solomon-fears 2012) to focus on cost/savings of the child support enforcement system to state and federal governments.",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "crispr dna was co-transfected with packaging plasmids including pvsv-g, pmd, and prev into hek293t cells and lentiviral vectors were harvested. the sgrnas against eif4a, eif4e, eif4g (primers were listed in supplementary table s3 ) were designed using freely available online tools (https://www.genscript.com/grna-database.html). oligos were annealed according to the manufacturer's protocol (37 \u2022 c for 30 min; 95 \u2022 c for 5 min and then ramp down to 25 \u2022 c at 5 \u2022 c/min).",
+    "label": "third-party-software"
+  },
+  {
+    "text": "the annotated dataset available from https://github.com/petteriteikari/vesselnn_dataset.",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "this type of insertion is not restricted to retroviruses, as herpes viruses, hepatitis viruses, influenza and the common cold virus, the coronavirus, and the papillomavirus, among others, have all been inserted into different genomic regions or are homologous to the encoded protein products. this has occurred on several occasions during evolutionary time, and these reinsertions appear to be responsible for the creation of gene families (see http://www.polygenicpathways.co.uk/blasts.htm), where over 2 million such alignments are available for multiple viral species. in effect, the entire human genome appears to be composed of viral dna. ",
+    "label": "general-url"
+  },
+  {
+    "text": "amino acid sequence alignments containing all putative matches to each orf were then created using clustal x and evidence of structural and sequence similarity was investigated by visual inspection. structural predictions for proteins were conducted using compute pi/mw, sig-nalp, tmhmm, tmpred, netnes and netnglyc available through the expasy bioinformatics resource portal (http://www.expasy.org/).",
+    "label": "third-party-software"
+  },
+  {
+    "text": "we made our dataset publicly available (https://github.com/aserg-ufmg/sbsi2016-data/blob/master/code%20review.zip). we expect this dataset inspires future research in the area, e.g., using natural language processing techniques.",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "structures were subsequently analyzed using swiss-pbd viewer 4.10 software (swiss institute of bioinformatics, basel, switzerland). the structures of ha from a/sichuan/1/2009 (h1n1) and a/hamburg/4/2009 (h1n1) were predicted using the online phyre2 protein fold recognition server (http://www.sbg.bio.ic.ac.uk/ viruses 2018, 10, 264 5 of 18 phyre2/html/page.cgi?id=index), which predicted them with >90% confidence. structures were subsequently analyzed using swiss-pbd viewer 4.10 software (swiss institute of bioinformatics, basel, switzerland).",
+    "label": "third-party-software"
+  },
+  {
+    "text": "a first and obvious large source of text was the english wikipedia. we selected all pages related to the construction category, and all their children and grandchildren, resulting in a final list of 12,256 pages (https://github.com/tixierae/wecd/blob/master/list_wikipedia_pages.txt). we then used wikipedia\u2019s special:export tool4 to download all these pages as xml files.",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "while our witness tree argument dominates our majorization argument, we present both, as they may be useful in considering future variations, and they high- light how these techniques apply in these settings. in the 3see, for example, http://leveldb.googlecode.com/svn/trunk/util/bloom.cc , https://github.com/armon/bloomd, and http://hackage.haskell.org/packages/archive/bloomfilter/1.0/doc/html/bloomfilter.txt. following section, we then consider the \ufb02uid limit method- ology, which best captures the result we desire here, namely that the load distributions are essentially the same with fully random hashing and double hashing.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "the qwi explorer (http://lehd.did.census.gov/), a tool provided by the center for economic  studies  at  the  u.s.  census  bureau,  provides  a  tentative  overview  of  the increasing  diversity  of  the  workforce  (but  not  the  overall  population)  in  boomville. racial minority workers went from 6 percent of the boomville \u201cmicropolitan area\u201d2 workforce to roughly 8.5 percent of the workforce in a 5 year-period, from 2009 to 2014.",
+    "label": "third-party-software"
+  },
+  {
+    "text": "for this use case, the only required methods in the interface are buildclassifier and classifyinstance, which, respectively, train a classi\ufb01er given a set of training instances and return a predicted class for a given instance. one contribution of this work is a reusable package, malt-libweka, which is freely available online (http://github.com/alexrudnick/malt-libweka). malt-libweka itself is a library that works with maltparser; its repository includes scripts that can be used to reproduce the results in this paper, or could be easily modified to do further parsing experiments on treebanks in the conll format.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "de bruijn graph analysis and partitioning software we used the probabilistic de bruijn graph representation previously described by [18] to store and partition the metagenome assembly graphs. the khmer and screed software packages are required for the analysis, and the versions used for this publication are available at https://github.com/ged-lab/khmer/tree/2012-assembly-artifacts and https://github.com/ged-lab/screed/tree/2012-assembly-artifacts. for metagenomes in this study, we used 4 x 48e9 bit bloom \ufb01lters (requiring 24 gb ram) to store the assembly graphs.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "few such models currently exist; however, one can look to universities and institutions that have developed sustainability curricula for guidance. these include the sdg academy (https://courses.sdgacademy.org/), an initiative of the sustainable development solutions network, and the stockholm resilience centre at stockholm university (http://www.stockholmresilience.org/), which offers courses on \"systems theory and resilience thinking\" and \"governance and management of social-ecological systems\".",
+    "label": "general-url"
+  },
+  {
+    "text": "sequences were labelled by passage number (p) and animal number (k), e.g. p04-k193.sequence read quality was assessed using fastqc (http://www.bioinformatics.babraham.ac.uk/projects/fastqc/). reads were then trimmed using trimmomatic [17] ; for each read, 15 nucleotides (nt) from the start and one nt from the end was removed, and a sliding window of four nt was applied with an average quality score threshold set to q32.",
+    "label": "third-party-software"
+  },
+  {
+    "text": "we test our method on the sysu-ceus dataset collected from the first affiliated hospital, sun yat-sen university, which is public available: https://github.com/lemondan/focal-liver-lesions-dataset-in-ceusthe equipment used was aplio ssa-770a (toshiba medical system).",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "pairwise percent identity calculations and graphical representations were made using geneious (kearse et al., 2012). phylogenetic trees were visualized using figtree (http://tree.bio.ed.ac.uk/software/figtree/). protein structural figures were generated using pymol (https://www.pymol.org).",
+    "label": "third-party-software"
+  },
+  {
+    "text": "data collected by arms are then arranged as a dataset (dataset can be found at https://github.com/yyzharry/aqi dataset). as shown in fig. 1, we have conducted a measurement study in both typical 2d and 3d scenarios (i.e., a roadside park and the courtyard of an office building in peking university), respectively, from feb. 11 to jul. 1, 2017, for more than 100 days to collect sufficient data.",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "TREEOME is implemented using open-source software and made available as a pre-configured bootable reference environment. All scripts and data presented in this study are available online at http://sourceforge.net/projects/budden2015treeome/.",
+    "label": "project"
+  },
+  {
+    "text": "this is likely because of a disproportionate amount of macrophage samples, so although observationally interesting this finding is not definitive. recent online compilation of open-source transcriptomic profiling of immunologically relevant cell types is available through the reference database of immune cells (refdic), http://refdic.rcai.riken.jp (hijikata et al., 2007). our query for the taar1 gene revealed detection in numerous immunologically relevant cell types in two microarray datasets for human and one for mouse immune cells, representing three different affymetrix genechip platforms. ",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "we evaluated our approach on two datasets that we created from the erim household panel data ( url : http://research.chicagogsb.edu/marketing/databases/erim/) described in detail in section 3.9.1. one of the files in the erim database records the shopping visits of households in sioux falls , south dakota at a number of local stores over 50 weeks.",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "the book cover database is available at https://github.com/ uchidalab/book-dataset.",
+    "label": "author-provided-dataset"
+  },
+  {
+    "text": "again, 25 tumors are reported as ln+ (not identical tumor samples as er+) while the remaining 24 tumors are ln-. these datasets are downloadable at http://data.cgt.duke.edu/west.php; however, there is no separate testing data to assess the classification error.",
+    "label": "third-party-dataset"
+  },
+  {
+    "text": "prover9 fof prover9 (32) version 2009-11a, november 2009.spass fof spass version 3.5 satallax thf satallax version 2.6 vampire (v) fof vampire version 2.6 (revision 1649) yices tff1 yices version 1.0.34 z3 fof z3 version 4.0 28 https://github.com/jurban/mptp2/blob/master/malarea/bin/runepar.pl learning-assisted automated reasoning with flyspeck 23 unless speci\ufb01ed otherwise, all systems are run with 30s time limit on a 48-core server with amd opteron 6174 2.2 ghz cpus, 320 gb ram, and 0.5 mb l2 cache per cpu. each problem is always assigned one cpu.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "in this chapter , we present a software automated tool for extracting and simulating highlevel ( multi- modal ) control programs from observed empirical data. the tool is modebox ( mode optimization and data extraction = mode ) , available as a matlab toolbox at http://gritslab.ece.gatech.edu/modebox.html. it was created to address the challenging problem of combining all the methods developed in the previous chapters into a single automated process that can be used for numerous applications.",
+    "label": "author-provided-software"
+  },
+  {
+    "text": "text s1 | sequence of ce80. the supplementary material for this article can be found online at: https://www.frontiersin.org/articles/10.3389/fmicb.2019.01113/full#supplementary-material figure s1 | characterization of amino acid residues and in vitro expression of ce80.",
+    "label": "general-url"
+  }
+]
